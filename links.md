@@ -6,3 +6,4 @@ links úteis ao trabalho:
 * https://www.youtube.com/user/TheAsaGames
 * http://motherboard.vice.com/pt_br/read/uma-cidade-de-simcity-com-107-milhoes-de-pessoas-e-um-retrato-de-nosso-futuro
 * http://dukope.com/
+* http://tvbrasil.ebc.com.br/diverso/episodio/games-alem-da-diversao

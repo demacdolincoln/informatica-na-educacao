@@ -10,4 +10,7 @@ links úteis ao trabalho:
 * http://portal.aprendiz.uol.com.br/2013/03/06/games-nas-escolas-experiencias-revelam-impacto-positivo-no-aprendizado/
 * http://jogos.uol.com.br/ultnot/multi/2011/03/30/alem-do-jogo-videogames-sao-arte.jhtm
 * http://www.gamesfoda.net/2014/12/quale-a-desse-tal-de-the-talos-principle/
-* 
+
+Novos links 12/05
+* http://www.open.edu/openlearnworks/mod/oucontent/view.php?id=970&section=11.3
+* http://www.ted.com/talks/will_wright_makes_toys_that_make_worlds#t-121232

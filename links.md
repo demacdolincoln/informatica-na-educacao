@@ -14,3 +14,6 @@ links úteis ao trabalho:
 Novos links 12/05
 * http://www.open.edu/openlearnworks/mod/oucontent/view.php?id=970&section=11.3
 * http://www.ted.com/talks/will_wright_makes_toys_that_make_worlds#t-121232
+
+Novo link 03/06
+* http://www.vox.com/2016/6/2/11837608/elon-musk-simulation-argument#prclt-eH2WbVC6

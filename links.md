@@ -17,3 +17,6 @@ Novos links 12/05
 
 Novo link 03/06
 * http://www.vox.com/2016/6/2/11837608/elon-musk-simulation-argument#prclt-eH2WbVC6
+
+Novo link 13/06
+* http://jogos.uol.com.br/ultimas-noticias/2013/04/05/opiniao-mi-mi-mi-meus-jogos-nao-sao-cultura-e-eu-nao-sou-culto.htm

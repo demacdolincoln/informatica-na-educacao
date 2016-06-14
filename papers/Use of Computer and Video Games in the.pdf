@@ -1,0 +1,12 @@
+--2016-06-14 17:41:24--  http://www.digra.org/wp-content/uploads/digital-library/05150.28025.pdf
+Resolvendo www.digra.org (www.digra.org)... 198.50.219.158
+Conectando-se a www.digra.org (www.digra.org)|198.50.219.158|:80... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 71721 (70K) [application/pdf]
+Salvando em: “05150.28025.pdf”
+
+     0K .......... .......... .......... .......... .......... 71%  202K 0s
+    50K .......... ..........                                 100% 38,2M=0,2s
+
+2016-06-14 17:41:50 (282 KB/s) - “05150.28025.pdf” salvo [71721/71721]
+

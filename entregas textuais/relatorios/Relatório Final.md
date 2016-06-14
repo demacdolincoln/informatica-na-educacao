@@ -13,7 +13,7 @@
 [link](http://dukope.com/)
 
  Lucas Pope é um desenvolvedor de games "Indie", que de forma didatica retrata politicas especialmente com críticas á estados totalitarios e repressivos. Seus principais trabalhos são the 
-Republia times, que narra o dia dia d eum jornal sobre forte influência do estado. 6 Degrees of Sabotage, que recria um  ataque terrorista onde o jogador tenta impedir que o caos se  instaure. Papers Please, esse último grande sucesso na Steam, onde o jogador faz o papel de um agente da fronteira decidindo
+Republia times, que narra o dia dia de um jornal sobre forte influência do estado. 6 Degrees of Sabotage, que recria um  ataque terrorista onde o jogador tenta impedir que o caos se  instaure. Papers Please, esse último grande sucesso na Steam, onde o jogador faz o papel de um agente da fronteira decidindo
 o destino de personagens baseado em seus documentos.  A maior parte dos jogos tem o código publicado em seu site,com excessão do Papers Please.
 
 

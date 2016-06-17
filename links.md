@@ -23,3 +23,5 @@ Novo link 13/06
 
 jogo sobre história tipo age of empires
 * https://waysofhistory.com/
+
+* http://www.diplomatique.org.br/artigo.php?id=1562

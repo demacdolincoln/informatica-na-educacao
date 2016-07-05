@@ -25,3 +25,6 @@ jogo sobre hist√≥ria tipo age of empires
 * https://waysofhistory.com/
 
 * http://www.diplomatique.org.br/artigo.php?id=1562
+
+mat√ria do El Pa√s "Alunos trocam o l√°pis pelo'joystick' "
+* http://brasil.elpais.com/brasil/2015/01/09/tecnologia/1420841983_974598.html

@@ -1,4 +1,4 @@
-links úteis ao trabalho:
+links Ãºteis ao trabalho:
 
 * http://www.uversity.org/modules/narrative-and-games-for-learning/
 * https://www.youtube.com/watch?v=Y6uGXeWp1tk
@@ -21,10 +21,13 @@ Novo link 03/06
 Novo link 13/06
 * http://jogos.uol.com.br/ultimas-noticias/2013/04/05/opiniao-mi-mi-mi-meus-jogos-nao-sao-cultura-e-eu-nao-sou-culto.htm
 
-jogo sobre história tipo age of empires
+jogo sobre histÃ³ria tipo age of empires
 * https://waysofhistory.com/
 
 * http://www.diplomatique.org.br/artigo.php?id=1562
 
-mat�ria do El Pa�s "Alunos trocam o lápis pelo'joystick' "
+matÃria do El PaÃs "Alunos trocam o lÃ¡pis pelo'joystick' "
 * http://brasil.elpais.com/brasil/2015/01/09/tecnologia/1420841983_974598.html
+
+Civilization V is set to invade North America’s high schools
+* http://venturebeat.com/2016/06/23/civilization-v-is-set-to-invade-north-americas-high-schools/

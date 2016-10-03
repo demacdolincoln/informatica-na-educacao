@@ -2,6 +2,12 @@
 
 ---
 
+## Plague Inc.
+
+ * Biologia
+ * Geografia
+ http://www.gamesforchange.org/play/plague-inc/
+
 
 ## bioshock
 
@@ -46,6 +52,7 @@
  * Noções de planejamento de longo prazo
  * Matematica Financeira
  * Geografia
+ http://www.gamesforchange.org/play/simcityedu-pollution-challenge/
 
 ## cities xl
 
@@ -122,4 +129,8 @@ http://www.gamesforchange.org/play/novas-evolution-lab/
 ## Undertale
  * Discussões morais e filosofia
  * Analise semiotica das palavras
+
+## Code Fred: Survival
+ * Biologia
+ http://www.gamesforchange.org/play/code-fred-survival-mode/
 

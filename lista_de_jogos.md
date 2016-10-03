@@ -1,6 +1,8 @@
 # Lista de jogos que podem ser úteis;
 
 ---
+
+
 ## bioshock
 
  * História
@@ -109,3 +111,15 @@
 ## The Beginner's Guide
 
  * Discussão sobre a própria linguagem do videogame, de como funciona a criação de jogos, de como o desenvolvedor se sente.
+ 
+# Jogos adicionados segundo semestre:
+
+## Nova Evolution Lab
+http://www.gamesforchange.org/play/novas-evolution-lab/
+ 
+ * aprendizado de biologia, jogo no webrowser
+
+## Undertale
+ * Discussões morais e filosofia
+ * Analise semiotica das palavras
+

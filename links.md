@@ -1,5 +1,10 @@
 links Ãºteis ao trabalho:
 
+Novo link 03/10
+
+* http://www.abed.org.br/seminario2006/pdf/tc009.pdf
+
+------------
 * http://www.uversity.org/modules/narrative-and-games-for-learning/
 * https://www.youtube.com/watch?v=Y6uGXeWp1tk
 * https://www.youtube.com/watch?v=MRrGqaN6JyA

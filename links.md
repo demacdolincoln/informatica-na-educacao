@@ -1,5 +1,10 @@
 links Ãºteis ao trabalho:
 
+Novo Link 17/10
+
+* http://portal.estacio.br/media/3482/giselle-cazetta-completa.pdf
+
+
 Novo link 03/10
 
 * http://www.abed.org.br/seminario2006/pdf/tc009.pdf
